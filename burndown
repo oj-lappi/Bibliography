@@ -3,14 +3,14 @@
   |
   |
   |
-  |
-  |
-  |                                                                    . Done
-  |                                                                    + Started
-2 |                                                              .     X Pending
   |                                                              .
   |                                                              .
-  |                                                              .
+  |                                                              .     . Done
+  |                                                              .     + Started
+2 |                                                              X     X Pending
+  |                                                              X
+  |                                                              X
+  |                                                              X
   |                                                              X
   |                                                              X
   |                                                              X
