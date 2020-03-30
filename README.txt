@@ -5,14 +5,14 @@
   Building
 - Being and Time         Heidegger                                     -
 - Natural Categories     Eleanor Rosch             psychology research -
-- Annotated Turing                                                     -
-- The Art of Computer                                                  -
+- The Annotated Turing   Charles Petzold                               -
+- The Art of Computer    Donald E. Knuth                               -
   Programming I
-- The Art of Computer                                                  -
+- The Art of Computer    Donald E. Knuth                               -
   Programming II
-- Linkers & Loaders                                                    -
-- Principia Mathematica                                                -
-  1.
+- Linkers & Loaders      Morgan Kaufmann                               -
+- Principia Mathematica  Bertrand Russel, Alfred                       -
+  1.                     Whitehead
 - 97 Things Every        Kevlin Henney                                 Completed
   Programmer Should Know
 - Peopleware: Productive Tom DeMarco;Timothy       software projects   Completed
