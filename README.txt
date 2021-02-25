@@ -35,7 +35,7 @@ History and "history"
 [Kidder] The Soul of a New Machine. Tracy Kidder. Avon. Copyright © 1982. ISBN 0-380-59931-7. 
 [Markoff-ampersand-Hafner] Cyberpunk: Outlaws and Hackers on the Computer Frontier. Katie Hafner. John Markoff. Simon & Schuster. Copyright © 1991. ISBN 0-671-68322-5. 
 [Stoll] The Cuckoo's Egg. Clifford Stoll. Doubleday. Copyright © 1989. ISBN 0-385-24946-2. 
-
+Paul Dickson's “Words” (Dell, 1982, ISBN 0-440-52260-7)
 
 Fiction
 -------
