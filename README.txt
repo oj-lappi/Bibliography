@@ -83,3 +83,6 @@ Compilers: Principles, Techniques and Tools, by Alfred V. Aho, Ravi Sethi, and J
 
 "the Cinderella book"
 [CMU] Introduction to Automata Theory, Languages, and Computation, by John Hopcroft and Jeffrey Ullman, (Addison-Wesley, 1979).
+
+paper on "the wheel of reincarnation"
+T.H. Myer and I.E. Sutherland "On the Design of Display Processors", Comm. ACM, Vol. 11, no. 6, June 1968
